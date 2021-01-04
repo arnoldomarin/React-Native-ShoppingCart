@@ -1,0 +1,13 @@
+{
+  "name": "shopping-cart-native",
+  "displayName": "shopping-cart-native",
+  "expo": {
+    "name": "shopping-cart-native-arnoldomarin",
+    "slug": "shopping-cart-native-arnoldomarin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "React Native shopping cart. In this shopping cart application, you are able to add items to the cart. When the same item is added multiple times to the cart, the item's quantity increases. The user is also able to edit quantity within the cart but there is a minor bug with the total cost when doing so. "
+  }
+}
